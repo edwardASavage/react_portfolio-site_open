@@ -37,15 +37,27 @@ using your code editor, use a regex find (typically CTRL + F followed by ALT + R
 
 Alternatively you are able to just use the find tool (CTL + F) with the expression `$edit`, you will need to remove the closing element `/$edit` if you choose this way though.
 
-For the `profilePicture` prop, you will need to encode an image to a base64 format (see: [mozilla Data URIs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Data_URIs) for more details), you can do that easily through an online converter ([such as this](https://www.base64-image.de/)).<br/>
+#### image storage method
+
+This project uses json as storage medium, meaning that images must be translated to text for storage. There are several ways around this whilst using databases and you are welcome to use one of them instead. If you do not wish to modify, you will need to follow a simular procedure:
+
+you will need to encode an image to a base64 format (see: [mozilla Data URIs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Data_URIs) for more details), you can do that easily through an online converter ([such as this](https://www.base64-image.de/)).<br/>
+
+It is then a simple matter of copying your new (very long) encoded string to the relevant areas of the `profileData.json` file.
+
+For the `profilePicture` prop (`{obj}.profilePicture`). <br/>
+
+For project image backgrounds in the project grid. This is a nested array of objects inside the main profileData object. (`{obj}` > `[portfilio]` > `{obj}.imageUrl`).
+
+#### Favicons
+
+Try not to forget to edit the favicon ( I used [this one](https://favicon.io/) ) to something personal and change the title of the document in the `index.html` file (in the `public` directory). <br/>
 
 ### Any item(s) in `compontents` directory
 
 These are your core sections, if you have made modifications such as removing properties or objects from the `profileData.json` file, I advise you to go over each compontent to ensure correct rendering.
 
 ## Final notes
-
-Try not to forget to edit the favicon ( I used [this one](https://favicon.io/) ) to something personal and change the title of the document in the `index.html` file (in the `public` directory). <br/>
 
 There is quite a lot of CSS used throught the project, namely <i>flexbox</i>. This surely can be modified for greater interoperability and faster rendering times.
 
