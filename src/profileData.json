@@ -1,0 +1,240 @@
+{
+  "name": "$edit$ john Doe /$edit$",
+  "profilePicture": "$edit$ encode 400x400 profile picture here /$edit$",
+  "about": {
+    "aboutIntro": "My name is $edit$ John Doe /$edit$ and I am passionate about clean, reusable and tested code!",
+    "aboutTagline": "Currently, I am finalising my studies at $edit$ your institute here /$edit at $edit institute location /$edit$.",
+    "aboutDetails": "$edit$ I love how fast technology stacks change and love keeping up with it all. Because of this, alongside how web technologies have always taken my interest, I think a web-application position would be best suited. /$edit$",
+    "aboutInterestsIntro": "Aside from career aspirations, I have quite a broad range of interests. They generally give me a break from any bugs I encounter and let me come back refreshed!",
+    "aboutInterestsOutro": "$edit$ I like to read the occasional fictional book, but am far more attracted to ancient (and future) philosophy. I have recently taken up sketching through realism too. The gym is my place of peace, and lastly, I adore animals of all kinds! /$edit$"
+  },
+  "email": "$edit$ johnDoe@doemail.com /$edit$",
+  "role": {
+    "title": "$edit$ First-class Computer Science student/Developer /$edit$",
+    "roleStatus": "Currently I am seeking a $edit$ 2021 graduate role /$edit$ to further a career within computing."
+  },
+  "cv": {
+    "education": [
+      {
+        "courseTitle": "$edit$ course Title here /$edit$",
+        "instututionName": "$edit$ name of institute here /$edit$",
+        "dateStart": "$edit$ start date eg: [APR 2021] /$edit$",
+        "courseDetails": "$edit$ details about course /$edit$",
+        "courseModules": [
+          {
+            "moduleYear": "$edit$ module year /$edit$",
+            "yearGrade": "$edit$ grade /$edit$",
+            "modules": [
+              {
+                "moduleTitle": "$edit$ module title /$edit$"
+              },
+              {
+                "moduleTitle": "$edit$ module title /$edit$"
+              },
+              {
+                "moduleTitle": "$edit$ module title /$edit$"
+              },
+              {
+                "moduleTitle": "$edit$ module title /$edit$"
+              },
+              {
+                "moduleTitle": "$edit$ module title /$edit$"
+              },
+              {
+                "moduleTitle": "$edit$ module title /$edit$"
+              }
+            ]
+          },
+          {
+            "moduleYear": "$edit$ module year /$edit$",
+            "yearGrade": "$edit$ grade /$edit$",
+            "modules": [
+              {
+                "moduleTitle": "$edit$ module title /$edit$"
+              },
+              {
+                "moduleTitle": "$edit$ module title /$edit$"
+              },
+              {
+                "moduleTitle": "$edit$ module title /$edit$"
+              },
+              {
+                "moduleTitle": "$edit$ module title /$edit$"
+              },
+              {
+                "moduleTitle": "$edit$ module title /$edit$"
+              },
+              {
+                "moduleTitle": "$edit$ module title /$edit$"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "courseTitle": "$edit$ course Title here /$edit$",
+        "instututionName": "$edit$ name of institute here /$edit$",
+        "dateStart": "$edit$ start date eg: [APR 2021] /$edit$",
+        "courseDetails": "$edit$ details about course /$edit$"
+      },
+      {
+        "courseTitle": "$edit$ course Title here /$edit$",
+        "instututionName": "$edit$ name of institute here /$edit$",
+        "dateStart": "$edit$ start date eg: [APR 2021] /$edit$",
+        "courseDetails": "$edit$ details about course /$edit$"
+      }
+    ],
+    "experience": [
+      {
+        "jobTitle": "$edit$ job title /$edit$",
+        "jobDescription": "$edit$ Job description here /$edit$",
+        "jobLocation": "$edit$ job location here /$edit$",
+        "dateStart": "$edit$ start date [Mar 2019] /$edit$",
+        "dateFinish": "$edit$ end date Mar 2020 /$edit$",
+        "jobDuties": "$edit$ paragraph about your job duties here /$edit$",
+        "jobResponsiblities": [
+          {
+            "jobResItem": "$edit$ res item /$edit$"
+          },
+          {
+            "jobResItem": "$edit$ res item /$edit$"
+          },
+          { "jobResItem": "$edit$ res item /$edit$" },
+          {
+            "jobResItem": "$edit$ res item /$edit$"
+          },
+          {
+            "jobResItem": "$edit$ res item /$edit$"
+          }
+        ]
+      },
+      {
+        "jobTitle": "$edit$ job title /$edit$",
+        "jobDescription": "$edit$ Job description here /$edit$",
+        "jobLocation": "$edit$ job location here /$edit$",
+        "dateStart": "$edit$ start date [Mar 2019] /$edit$",
+        "dateFinish": "$edit$ end date Mar 2020 /$edit$",
+        "jobDuties": "$edit$ paragraph about your job duties here /$edit$",
+        "jobResponsiblities": [
+          {
+            "jobResItem": "$edit$ res item /$edit$"
+          },
+          {
+            "jobResItem": "$edit$ res item /$edit$"
+          },
+          { "jobResItem": "$edit$ res item /$edit$" },
+          {
+            "jobResItem": "$edit$ res item /$edit$"
+          },
+          {
+            "jobResItem": "$edit$ res item /$edit$"
+          }
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "skillName": "$edit$ skill title (HTML, CSS, C++ etc) /$edit$",
+        "skillExperience": "$edit$ Self-taught , high educattion, Commercial etc /$edit$",
+        "skillDescription": "$edit$ how you learned the skill /$edit$"
+      },
+      {
+        "skillName": "$edit$ skill title (HTML, CSS, C++ etc) /$edit$",
+        "skillExperience": "$edit$ Self-taught , high educattion, Commercial etc /$edit$",
+        "skillDescription": "$edit$ how you learned the skill /$edit$"
+      },
+      {
+        "skillName": "$edit$ skill title (HTML, CSS, C++ etc) /$edit$",
+        "skillExperience": "$edit$ Self-taught , high educattion, Commercial etc /$edit$",
+        "skillDescription": "$edit$ how you learned the skill /$edit$"
+      },
+      {
+        "skillName": "$edit$ skill title (HTML, CSS, C++ etc) /$edit$",
+        "skillExperience": "$edit$ Self-taught , high educattion, Commercial etc /$edit$",
+        "skillDescription": "$edit$ how you learned the skill /$edit$"
+      },
+      {
+        "skillName": "$edit$ skill title (HTML, CSS, C++ etc) /$edit$",
+        "skillExperience": "$edit$ Self-taught , high educattion, Commercial etc /$edit$",
+        "skillDescription": "$edit$ how you learned the skill /$edit$"
+      },
+      {
+        "skillName": "$edit$ skill title (HTML, CSS, C++ etc) /$edit$",
+        "skillExperience": "$edit$ Self-taught , high educattion, Commercial etc /$edit$",
+        "skillDescription": "$edit$ how you learned the skill /$edit$"
+      },
+      {
+        "skillName": "$edit$ skill title (HTML, CSS, C++ etc) /$edit$",
+        "skillExperience": "$edit$ Self-taught , high educattion, Commercial etc /$edit$",
+        "skillDescription": "$edit$ how you learned the skill /$edit$"
+      },
+      {
+        "skillName": "$edit$ skill title (HTML, CSS, C++ etc) /$edit$",
+        "skillExperience": "$edit$ Self-taught , high educattion, Commercial etc /$edit$",
+        "skillDescription": "$edit$ how you learned the skill /$edit$"
+      },
+
+      {
+        "skillName": "$edit$ skill title (HTML, CSS, C++ etc) /$edit$",
+        "skillExperience": "$edit$ Self-taught , high educattion, Commercial etc /$edit$",
+        "skillDescription": "$edit$ how you learned the skill /$edit$"
+      }
+    ]
+  },
+  "socialLinks": [
+    {
+      "name": "LinkedIn",
+      "url": "$edit$ your linkedin url here /$edit$",
+      "className": "icon icon-linkedin"
+    },
+
+    {
+      "name": "HackerRank",
+      "url": "$edit$ hackerRank url here (feel free to change to github, or any other social link) /$edit$",
+      "className": "icon icon-hackerrank $edit$ If you changed from hackerrank, you will need to add your own icon to the public/images folder and create a new css class, placing the name of the class instead of icon-hackerrank. /$edit$"
+    },
+    {
+      "name": "Email",
+      "url": "mailto:$edit$ your email address /$edit$",
+      "className": "icon icon-email"
+    }
+  ],
+  "portfolio": [
+    {
+      "projectName": "$edit$ your project title here /$edit$",
+      "projectDescription": {
+        "simpleDescription": "$edit$ small description here /$edit$",
+        "expandedDescription": "$edit$ large description here /$edit$"
+      },
+      "imageUrl": "$edit$ encoded base64 image data here (will be quite long) /$edit$",
+      "projectUrl": "$edit$ place your project link here. /$edit$"
+    },
+    {
+      "projectName": "$edit$ your project title here /$edit$",
+      "projectDescription": {
+        "simpleDescription": "$edit$ small description here /$edit$",
+        "expandedDescription": "$edit$ large description here /$edit$"
+      },
+      "imageUrl": "$edit$ encoded base64 image data here (will be quite long) /$edit$",
+      "projectUrl": "$edit$ place your project link here. /$edit$"
+    },
+    {
+      "projectName": "$edit$ your project title here /$ 1edit$",
+      "projectDescription": {
+        "simpleDescription": "$edit$ small description here /$edit$",
+        "expandedDescription": "$edit$ large description here /$edit$"
+      },
+      "imageUrl": "$edit$ encoded base64 image data here (will be quite long) /$edit$",
+      "projectUrl": "$edit$ place your project link here. /$edit$"
+    },
+    {
+      "projectName": "$edit$ your project title here /$edit$",
+      "projectDescription": {
+        "simpleDescription": "$edit$ small description here /$edit$",
+        "expandedDescription": "$edit$ large description here /$edit$"
+      },
+      "imageUrl": "$edit$ encoded base64 image data here (will be quite long) /$edit$",
+      "projectUrl": "$edit$ place your project link here. /$edit$"
+    }
+  ]
+}
